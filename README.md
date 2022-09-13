@@ -1,4 +1,4 @@
-# Welcome to the C++ Crash Course. 
+# Welcome to the 1771 Programming Crash Course. 
 
 ### This is a WIP by Joseph Farkas. 
 
