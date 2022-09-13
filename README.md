@@ -1,8 +1,8 @@
 # Welcome to the 1771 Programming Crash Course. 
 
-### This is a WIP by Joseph Farkas. 
+### This is a WIP by Joseph Farkas.
 
-The current structure will have folders marking "chapters" of the documentation. 
+The crash course is contained in the "[Wiki](https://github.com/TEAM1771/Crash-Course/wiki)" section on our GitHub repo.
 
 It will start by introducing the basics of C++ so that anyone with a little time can learn enough C++ to read and understand the following documentation and at least some of the codebase. **You don't have to know much to get started and contribute to our code; you'll learn as you help!** 
 
